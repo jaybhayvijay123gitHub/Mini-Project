@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\Git Hub E-commerse mini project\.metadata\.plugins\org.eclipse.jdt.core
+2087567602.index
